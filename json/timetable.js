@@ -83,10 +83,10 @@ const timetable =
         ],
       [
             {
-                "unit": "",
-                "lec": "",
-                "room": "",
-                "time": ""
+                "unit": "Assembly Lnguage",
+                "lec": "A. Kinuthia",
+                "room": "EG-32",
+                "time": "7.00am - 10.00am"
             },
           {
                 "unit": "CAD",
