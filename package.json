@@ -4,12 +4,14 @@
   "description": "Filtering whatsapp messages and send to Dm. Creating timetable.",
   "main": "SmartBot.js",
   "scripts": {
+    "start": "node SmartBot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Nicholas Mumo",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^4.3.0",
-    "mongoose": "^6.4.4"
+    "mongoose": "^6.4.4",
+    "qrcode-terminal": "^0.12.0"
   }
 }
