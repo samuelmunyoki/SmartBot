@@ -1,0 +1,16 @@
+{
+  "name": "smartbot",
+  "version": "1.0.0",
+  "description": "Filtering whatsapp messages and send to Dm. Creating timetable.",
+  "main": "SmartBot.js",
+  "scripts": {
+    "start": "node SmartBot.js"
+  },
+  "author": "Nicholas Mumo",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.5.0",
+    "mongoose": "^6.4.4",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
